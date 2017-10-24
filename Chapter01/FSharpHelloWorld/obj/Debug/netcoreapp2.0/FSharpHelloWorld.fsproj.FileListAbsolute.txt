@@ -1,0 +1,8 @@
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/bin/Debug/netcoreapp2.0/FSharpHelloWorld.deps.json
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/bin/Debug/netcoreapp2.0/FSharpHelloWorld.runtimeconfig.json
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/bin/Debug/netcoreapp2.0/FSharpHelloWorld.runtimeconfig.dev.json
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/bin/Debug/netcoreapp2.0/FSharpHelloWorld.dll
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/bin/Debug/netcoreapp2.0/FSharpHelloWorld.pdb
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/obj/Debug/netcoreapp2.0/FSharpHelloWorld.fsproj.CoreCompileInputs.cache
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/obj/Debug/netcoreapp2.0/FSharpHelloWorld.dll
+/Users/pat/Developer/Books/DotNET/Mastering F#/my-code/Chapter01/FSharpHelloWorld/obj/Debug/netcoreapp2.0/FSharpHelloWorld.pdb
